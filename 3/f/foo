@@ -1,0 +1,1 @@
+{"name":"foo","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6","features":["i128_support"],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":null,"package":null}],"cksum":"d867001db0e2b6e0496f9fac96930e2d42233ecd3ca0413e0753d4c7695d289c","features":{"extras":["rand/simd_support"]},"yanked":false,"links":null}
