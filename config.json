@@ -1,0 +1,5 @@
+{
+    "dl": "https://crates.polomack.eu/v1/crates/{crate}/{version}/download",
+    "api": "https://crates.polomack.eu/",
+    "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://crates.polomack.eu/v1/index"]
+}
