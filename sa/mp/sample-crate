@@ -2,3 +2,4 @@
 {"name":"sample-crate","vers":"0.2.0","deps":[],"cksum":"4762836cedddc3bd0131221214868074cb6869c3ef4d3bba8b075e7db442beaa","features":{},"yanked":false,"links":null}
 {"name":"sample-crate","vers":"0.3.0-preview.1","deps":[],"cksum":"a50e3a89ee3f2e6a1bf68dfa32f4ca777b2915b58b1121cae8479f33f5bbab26","features":{},"yanked":false,"links":null}
 {"name":"sample-crate","vers":"0.3.0-preview.2","deps":[],"cksum":"66fcf2b0e7c5c969b107614a457aaea424bed6d89c35c3874e58307e9c0b3333","features":{},"yanked":false,"links":null}
+{"name":"sample-crate","vers":"0.3.0","deps":[],"cksum":"b5053ea57ee868ff9f77d85c36ec15e655a31b899dab61b33a6bf276e461a4df","features":{},"yanked":false,"links":null}
