@@ -1,2 +1,3 @@
 {"name":"sample-crate","vers":"0.1.0","deps":[],"cksum":"0b74ce000e995b7ce02467f921fcf6059e0849b19a4d6739108a8c374a52529e","features":{},"yanked":false,"links":null}
 {"name":"sample-crate","vers":"0.2.0","deps":[],"cksum":"4762836cedddc3bd0131221214868074cb6869c3ef4d3bba8b075e7db442beaa","features":{},"yanked":false,"links":null}
+{"name":"sample-crate","vers":"0.3.0-preview.1","deps":[],"cksum":"a50e3a89ee3f2e6a1bf68dfa32f4ca777b2915b58b1121cae8479f33f5bbab26","features":{},"yanked":false,"links":null}
