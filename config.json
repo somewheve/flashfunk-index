@@ -1,5 +1,4 @@
 {
     "dl": "http://115.159.205.113:3000/api/v1/crates/{crate}/{version}/download",
-    "api": "http://115.159.205.113:3000/",
-    "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
+    "api": "http://115.159.205.113:3000/"
 }
